@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    background-color: bisque;
+    margin-right: 0%;
+}
+
+#lot {
+    background-color: #E9F6FF;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+    margin-right: 5px;
+}
+
+p {
+    line-height: 1.75;
+    font-size: medium;
+}
+
+h4,
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.coll2 {
+    position: relative;
+    margin-left: 20px;
+}
+
+#head {
+    position: relative;
+    margin-top: 01rem;
+    padding-top: 0;
+}
